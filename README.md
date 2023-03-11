@@ -1,9 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/b2534e121940413.61add7ea63eef.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yevhenii Motovelets</h1>
 <h3 align="center">Unity Game Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinlessdevil&label=Profile%20views&color=0e75b6&style=flat" alt="sinlessdevil" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinlessdevil" alt="sinlessdevil" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/h64Tu1zJGoUAAAAd/red-demon.gif">
 
 - 🌱 I’m currently learning **Zenject,DoTween,UniRx**
