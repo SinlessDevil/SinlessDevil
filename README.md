@@ -4,7 +4,7 @@
 
 ## 🛠 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,android,arduino,cpp,c,cs,git,ps,unreal" />
+  <img src="https://skillicons.dev/icons?i=unity,arduino,cpp,c,cs,git,ps,unreal" />
 </p>
 
 ## 📊 Most Used Languages
