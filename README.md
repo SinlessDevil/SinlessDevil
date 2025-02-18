@@ -13,9 +13,6 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark)
 
-## 🔥 Contribution Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=SinlessDevil&theme=dark)
-
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SinlessDevil&theme=dark&no-frame=true&row=1)
 
