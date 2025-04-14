@@ -24,7 +24,68 @@ Strong team player with excellent communication skills.
 
 ---
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**Casual_Games_Collection**](https://github.com/SinlessDevil/Casual_Games_Collection) | 3D Casual Games Collection | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Stars](https://img.shields.io/github/stars/SinlessDevil/Casual_Games_Collection?style=flat) |
-| [**Grid_Level_Editor**](https://github.com/SinlessDevil/Grid_Level_Editor) | Odin-based custom grid level editor | ![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity) ![Odin](https://img.shields.io/badge/-Odin%20Inspector-5e60ce?style=flat) |
+## 🛠 Tools
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/SinlessDevil/Grid_Level_Editor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Grid_Level_Editor&theme=dark&show_owner=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SinlessDevil/Language_Change_Tools">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Language_Change_Tools&theme=dark&show_owner=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SinlessDevil/Save_System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Save_System&theme=dark&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🎯 Technical Challenges
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/SinlessDevil/Test_task_PizzaDelivery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Test_task_PizzaDelivery&theme=dark&show_owner=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SinlessDevil/Test_Task_Shot_Ball">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Test_Task_Shot_Ball&theme=dark&show_owner=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SinlessDevil/Test_Task_Catch_Fruit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Test_Task_Catch_Fruit&theme=dark&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Project Templates
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SinlessDevil/Addressable_Template">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Addressable_Template&theme=dark" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SinlessDevil/Ecs_Template">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Ecs_Template&theme=dark" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SinlessDevil/Zenject_Template">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Zenject_Template&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
