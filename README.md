@@ -24,25 +24,7 @@ Strong team player with excellent communication skills.
 
 ---
 
-## 🧩 Tools & Editors
-| Project | Description |
-|--------|-------------|
-| [Grid_Level_Editor](https://github.com/SinlessDevil/Grid_Level_Editor) | Powerful Odin-based level editor |
-| [Inventory_Tetris](https://github.com/SinlessDevil/Inventory_Tetris) | UI-based Inventory System with drag-and-drop |
-
----
-
-## 🧪 Test Tasks
-| Project | Description |
-|--------|-------------|
-| [Test_Task_Catch_Fruit](https://github.com/SinlessDevil/Test_Task_Catch_Fruit) | Mini fruit catcher game |
-| [Test_Task_PizzaDelivery](https://github.com/SinlessDevil/Test_task_PizzaDelivery) | Delivery gameplay task |
-
----
-
-## 🎮 Game Prototypes
-| Project | Description |
-|--------|-------------|
-| [Casual_Games_Collection](https://github.com/SinlessDevil/Casual_Games_Collection) | Set of casual Unity games |
-| [Pokemon_Tactical_Role_Play](https://github.com/SinlessDevil/Pokemon_Tactical_Role_Play) | Utility AI prototype |
-
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**Casual_Games_Collection**](https://github.com/SinlessDevil/Casual_Games_Collection) | 3D Casual Games Collection | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Stars](https://img.shields.io/github/stars/SinlessDevil/Casual_Games_Collection?style=flat) |
+| [**Grid_Level_Editor**](https://github.com/SinlessDevil/Grid_Level_Editor) | Odin-based custom grid level editor | ![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity) ![Odin](https://img.shields.io/badge/-Odin%20Inspector-5e60ce?style=flat) |
