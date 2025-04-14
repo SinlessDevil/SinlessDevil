@@ -90,7 +90,7 @@ Strong team player with excellent communication skills.
   </tr>
 </table>
 
-## 🎮 PGame Prototypes
+## 🎮 Game Prototypes
 
 <table>
   <tr>
