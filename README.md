@@ -30,17 +30,29 @@ Strong team player with excellent communication skills.
   <tr>
     <td>
       <a href="https://github.com/SinlessDevil/UnityGridLevelEditor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityGridLevelEditor&theme=dark&show_owner=true" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityGridLevelEditor&theme=dark&show_owner=true"
+          width="350"
+          alt="UnityGridLevelEditor"
+        />
       </a>
     </td>
     <td>
       <a href="https://github.com/SinlessDevil/UnityLocalizationEditor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityLocalizationEditor&theme=dark&show_owner=true" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityLocalizationEditor&theme=dark&show_owner=true"
+          width="350"
+          alt="UnityLocalizationEditor"
+        />
       </a>
     </td>
     <td>
       <a href="https://github.com/SinlessDevil/SaveSystemToolkit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=SaveSystemToolkit&theme=dark&show_owner=true" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=SaveSystemToolkit&theme=dark&show_owner=true"
+          width="350"
+          alt="SaveSystemToolkit"
+        />
       </a>
     </td>
   </tr>
