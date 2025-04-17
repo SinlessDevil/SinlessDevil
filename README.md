@@ -134,8 +134,8 @@ Strong team player with excellent communication skills.
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Tuto_BallBlastClone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Tuto_BallBlastClone&theme=dark" />
+      <a href="https://github.com/SinlessDevil/TutoBallBlastClone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TutoBallBlastClone&theme=dark" />
       </a>
     </td>
   </tr>
