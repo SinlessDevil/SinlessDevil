@@ -63,18 +63,18 @@ Strong team player with excellent communication skills.
 <table>
   <tr>
     <td>
-      <a href="https://github.com/SinlessDevil/Test_task_PizzaDelivery">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Test_task_PizzaDelivery&theme=dark&show_owner=true" />
+      <a href="https://github.com/SinlessDevil/TestTaskPizzaDelivery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskPizzaDelivery&theme=dark&show_owner=true" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/SinlessDevil/Test_Task_Shot_Ball">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Test_Task_Shot_Ball&theme=dark&show_owner=true" />
+      <a href="https://github.com/SinlessDevil/TestTaskShotBall">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskShotBall&theme=dark&show_owner=true" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/SinlessDevil/Test_Task_Catch_Fruit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Test_Task_Catch_Fruit&theme=dark&show_owner=true" />
+      <a href="https://github.com/SinlessDevil/TestTaskCatchFruit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskCatchFruit&theme=dark&show_owner=true" />
       </a>
     </td>
   </tr>
@@ -85,18 +85,18 @@ Strong team player with excellent communication skills.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Addressable_Template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Addressable_Template&theme=dark" />
+      <a href="https://github.com/SinlessDevil/AddressableTemplate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AddressableTemplate&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Ecs_Template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Ecs_Template&theme=dark" />
+      <a href="https://github.com/SinlessDevil/EcsTemplate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=EcsTemplate&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Zenject_Template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Zenject_Template&theme=dark" />
+      <a href="https://github.com/SinlessDevil/ZenjectTemplate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZenjectTemplate&theme=dark" />
       </a>
     </td>
   </tr>
