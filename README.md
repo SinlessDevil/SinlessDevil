@@ -107,35 +107,35 @@ Strong team player with excellent communication skills.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Inventory_Tetris">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Inventory_Tetris&theme=dark" />
+      <a href="https://github.com/SinlessDevil/TetrisInventorySystem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Pokemon_Tactical_Role_Play">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Pokemon_Tactical_Role_Play&theme=dark" />
+      <a href="https://github.com/SinlessDevil/PokemonTacticalRolePlay">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=PokemonTacticalRolePlay&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Marine_State_io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Marine_State_io&theme=dark" />
+      <a href="https://github.com/SinlessDevil/MarineStateIo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=MarineStateIo&theme=dark" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Casual_Games_Collection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Casual_Games_Collection&theme=dark" />
+      <a href="https://github.com/SinlessDevil/CasualGamesCollection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=CasualGamesCollection&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Endless_Runner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Endless_Runner&theme=dark" />
+      <a href="https://github.com/SinlessDevil/EndlessRunner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=EndlessRunner&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SinlessDevil/Tuto_Ball_Blast_Clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Tuto_Ball_Blast_Clone&theme=dark" />
+      <a href="https://github.com/SinlessDevil/Tuto_BallBlastClone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Tuto_BallBlastClone&theme=dark" />
       </a>
     </td>
   </tr>
