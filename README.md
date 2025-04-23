@@ -56,6 +56,14 @@ Strong team player with excellent communication skills.
       </a>
     </td>
   </tr>
+    </tr>
+   <tr>
+    <td align="center">
+      <a href="https://github.com/SinlessDevil/AudioVibrationKit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AudioVibrationKit&theme=dark" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 🎯 Technical Challenges
@@ -77,7 +85,6 @@ Strong team player with excellent communication skills.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskCatchFruit&theme=dark&show_owner=true" />
       </a>
     </td>
-  </tr>
 </table>
 
 ## 🛠️ Project Templates
