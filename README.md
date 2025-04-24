@@ -13,9 +13,6 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=SinlessDevil&theme=dark&no-frame=true&row=1)
-
 ## 📜 Additional Info
 Over four years of game development experience, including more than two years in
 hyper-casual and casual games. Worked on projects from prototyping to release and
@@ -147,3 +144,6 @@ Strong team player with excellent communication skills.
     </td>
   </tr>
 </table>
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=SinlessDevil&theme=dark&no-frame=true&row=1)
