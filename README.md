@@ -14,10 +14,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark)
 
 ## 📜 Additional Info
-Over four years of game development experience, including more than two years in
-hyper-casual and casual games. Worked on projects from prototyping to release and
-supported live games. Skilled in code optimization, clean code, and software architecture.
-Strong team player with excellent communication skills.
+Unity Developer with 4+ years of experience, including 3,5+ years in commercial projects.
+Involved in full-cycle development — from prototypes to release and live ops. Focused on
+performance, clean code, and scalable architecture. Strong communicator and team
+player with hands-on experience in gameplay, tools.
 
 ---
 
