@@ -2,6 +2,12 @@
 
 📫 **How to reach me:** [gwamotoveletssser@gmail.com](mailto:gwamotoveletssser@gmail.com)
 
+## 📜 Additional Info
+Unity Developer with 4+ years of experience, including 3,5+ years in commercial projects.
+Involved in full-cycle development — from prototypes to release and live ops. Focused on
+performance, clean code, and scalable architecture. Strong communicator and team
+player with hands-on experience in gameplay, tools.
+
 ## 🛠 Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unity,arduino,cpp,c,cs,git,ps,unreal" />
@@ -13,12 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&layout=compact&theme=dark&hide_progress=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark"/>
 </div>
-
-## 📜 Additional Info
-Unity Developer with 4+ years of experience, including 3,5+ years in commercial projects.
-Involved in full-cycle development — from prototypes to release and live ops. Focused on
-performance, clean code, and scalable architecture. Strong communicator and team
-player with hands-on experience in gameplay, tools.
 
 ---
 
