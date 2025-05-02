@@ -9,12 +9,10 @@
 
 ## 📊 Stats
 
-<a href="https://github.com/SinlessDevil">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&layout=compact&theme=dark"/>
-</a>
-<a href="https://github.com/SinlessDevil">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark"/>
-</a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&layout=compact&theme=dark&hide_progress=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark"/>
+</div>
 
 ## 📜 Additional Info
 Unity Developer with 4+ years of experience, including 3,5+ years in commercial projects.
