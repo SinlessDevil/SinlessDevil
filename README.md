@@ -7,11 +7,14 @@
   <img src="https://skillicons.dev/icons?i=unity,arduino,cpp,c,cs,git,ps,unreal" />
 </p>
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&layout=compact&theme=dark)
+## 📊 Stats
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark)
+<a href="https://github.com/SinlessDevil">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&layout=compact&theme=dark"/>
+</a>
+<a href="https://github.com/SinlessDevil">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark"/>
+</a>
 
 ## 📜 Additional Info
 Unity Developer with 4+ years of experience, including 3,5+ years in commercial projects.
