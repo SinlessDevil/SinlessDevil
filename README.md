@@ -3,7 +3,7 @@
 📫 **How to reach me:** [gwamotoveletssser@gmail.com](mailto:gwamotoveletssser@gmail.com)
 
 ## 📜 Additional Info
-Unity Developer with 4+ years of experience, including 3,5+ years in commercial projects.
+Unity Developer with 4,5+ years of experience, including 3,5+ years in commercial projects.
 Involved in full-cycle development — from prototypes to release and live ops. Focused on
 performance, clean code, and scalable architecture. Strong communicator and team
 player with hands-on experience in gameplay, tools.
