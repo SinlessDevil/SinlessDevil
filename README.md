@@ -1,5 +1,4 @@
 # Unity Developer
-
 📫 **How to reach me:** [gwamotoveletssser@gmail.com](mailto:gwamotoveletssser@gmail.com)
 
 ## 📜 Additional Info
@@ -14,7 +13,6 @@ player with hands-on experience in gameplay, tools.
 </p>
 
 ## 📊 Stats
-
 <div align="center">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&layout=compact&theme=dark&hide_progress=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark"/> -->
@@ -22,10 +20,7 @@ player with hands-on experience in gameplay, tools.
 <img src="https://nirzak-streak-stats.vercel.app/?user=SinlessDevil&theme=dark&hide_border=false" alt="Streak Stats" height="180" />
 </div>
 
----
-
 ## 🛠 Tools
-
 <table>
   <tr>
     <td>
@@ -76,7 +71,6 @@ player with hands-on experience in gameplay, tools.
 </table>
 
 ## 🎯 Technical Challenges
-
 <table>
   <tr>
     <td>
@@ -119,7 +113,6 @@ player with hands-on experience in gameplay, tools.
 </table>
 
 ## 🎮 Game Prototypes
-
 <table>
   <tr>
     <td align="center">
