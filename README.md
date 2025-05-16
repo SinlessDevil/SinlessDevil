@@ -25,46 +25,29 @@ player with hands-on experience in gameplay, tools.
   <tr>
     <td>
       <a href="https://github.com/SinlessDevil/UnityGridLevelEditor">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityGridLevelEditor&theme=dark&show_owner=true"
-          width="350"
-          alt="UnityGridLevelEditor"
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityGridLevelEditor&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
     <td>
       <a href="https://github.com/SinlessDevil/UnityLocalizationEditor">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityLocalizationEditor&theme=dark&show_owner=true"
-          width="350"
-          alt="UnityLocalizationEditor"
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityLocalizationEditor&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
     <td>
       <a href="https://github.com/SinlessDevil/SaveSystemToolkit">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=SaveSystemToolkit&theme=dark&show_owner=true"
-          width="350"
-          alt="SaveSystemToolkit"
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=SaveSystemToolkit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
   </tr>
-    </tr>
-   <tr>
-    <td align="center">
+  <tr>
+    <td>
       <a href="https://github.com/SinlessDevil/AudioVibrationKit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AudioVibrationKit&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AudioVibrationKit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
-      <td>
+    <td>
       <a href="https://github.com/SinlessDevil/TestToolKit">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestToolKit&theme=dark&show_owner=true"
-          width="350"
-          alt="TestToolKit"
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestToolKit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
   </tr>
@@ -75,38 +58,38 @@ player with hands-on experience in gameplay, tools.
   <tr>
     <td>
       <a href="https://github.com/SinlessDevil/TestTaskPizzaDelivery">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskPizzaDelivery&theme=dark&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskPizzaDelivery&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
     <td>
       <a href="https://github.com/SinlessDevil/TestTaskShotBall">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskShotBall&theme=dark&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskShotBall&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
     <td>
       <a href="https://github.com/SinlessDevil/TestTaskCatchFruit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskCatchFruit&theme=dark&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskCatchFruit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
+  </tr>
 </table>
 
 ## 🛠️ Project Templates
-
 <table>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/SinlessDevil/AddressableTemplate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AddressableTemplate&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AddressableTemplate&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/SinlessDevil/EcsTemplate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=EcsTemplate&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=EcsTemplate&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/SinlessDevil/ZenjectTemplate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZenjectTemplate&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZenjectTemplate&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
   </tr>
@@ -115,40 +98,41 @@ player with hands-on experience in gameplay, tools.
 ## 🎮 Game Prototypes
 <table>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/SinlessDevil/TetrisInventorySystem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/SinlessDevil/PokemonTacticalRolePlay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=PokemonTacticalRolePlay&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=PokemonTacticalRolePlay&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
-     <td align="center">
+    <td>
       <a href="https://github.com/SinlessDevil/ZumaClone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/SinlessDevil/CasualGamesCollection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=CasualGamesCollection&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=CasualGamesCollection&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/SinlessDevil/MarineStateIo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=MarineStateIo&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=MarineStateIo&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/SinlessDevil/TutoBallBlastClone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TutoBallBlastClone&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TutoBallBlastClone&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366" width="450" />
       </a>
     </td>
   </tr>
 </table>
+
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SinlessDevil&theme=dark&no-frame=true&row=1)
