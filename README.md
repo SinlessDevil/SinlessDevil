@@ -133,6 +133,5 @@ player with hands-on experience in gameplay, tools.
   </tr>
 </table>
 
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=SinlessDevil&theme=dark&no-frame=true&row=1)
+---
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" width="100%" alt="Achievements preview"/>
