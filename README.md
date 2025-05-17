@@ -7,15 +7,13 @@ Involved in full-cycle development — from prototypes to release and live ops. 
 performance, clean code, and scalable architecture. Strong communicator and team
 player with hands-on experience in gameplay, tools.
 
-## 🛠 Tools
+## 🛠 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unity,arduino,cpp,c,cs,git,ps,unreal" />
 </p>
 
 ## 📊 Stats
 <div align="center">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&layout=compact&theme=dark&hide_progress=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=SinlessDevil&theme=dark&hide_border=false" alt="Streak Stats" height="180" />
 </div>
