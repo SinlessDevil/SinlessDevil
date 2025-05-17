@@ -134,4 +134,4 @@ player with hands-on experience in gameplay, tools.
 </table>
 
 ---
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" width="100%" alt="Achievements preview"/>
+<img src="https://github.com/SinlessDevil/SinlessDevil/blob/main/metrics.plugin.achievements.compact.svg" width="100%" alt="My GitHub Achievements" />
