@@ -64,5 +64,6 @@ player with hands-on experience in gameplay, tools.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SinlessDevil&theme=monokai&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SinlessDevil&theme=monokai&column=6&no-frame=true" alt="GitHub Trophies" />
 </p>
+
