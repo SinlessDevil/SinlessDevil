@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * *" }] # каждый день
-  push: { branches: ["main"] }
+  schedule:
+    - cron: "0 0 * * *" # каждый день
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Заменить на свой логин
+          token: ${{ secrets.METRICS_TOKEN }}
           user: SinlessDevil
-          template: classic
-          base: header, activity, community, repositories
-          config_timezone: Europe/Kyiv
+          filename: metrics.plugin.achievements.compact.svg
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
