@@ -2,6 +2,7 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+
 permissions:
   contents: write
 
@@ -13,6 +14,20 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: SinlessDevil
+          filename: metrics.alternative.svg
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          
+          # 🚀 Плагины-замены
+          plugin_stargazers: yes
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          
+          # 🔧 Настройки
+          plugin_languages_ignored: >-
+            html, css, dockerfile, makefile
+          plugin_languages_limit: 5
+          
+          output_action: commit
+          committer_branch: main
+          plugins_errors_fatal: no
