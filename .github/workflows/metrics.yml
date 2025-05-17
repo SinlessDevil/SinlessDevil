@@ -1,0 +1,19 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }] # каждый день
+  push: { branches: ["main"] }
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Заменить на свой логин
+          user: SinlessDevil
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Europe/Kyiv
+          plugin_achievements: yes
+          plugin_achievements_display: compact
