@@ -1,0 +1,28 @@
+name: Update Stats Cache
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Replace date in README
+        run: |
+          sed -i 's/random=[0-9]*/random=20250520/g' README.md
+
+      - name: Commit and push
+        run: |
+          git add README.md
+          git commit -m "Auto-update GitHub Stats cache param"
+          git push
