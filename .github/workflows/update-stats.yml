@@ -21,8 +21,12 @@ jobs:
         run: |
           sed -i 's/random=[0-9]*/random=20250520/g' README.md
 
-      - name: Commit and push
+      - name: Commit and push if changed
         run: |
           git add README.md
-          git commit -m "Auto-update GitHub Stats cache param"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update GitHub Stats cache param"
+            git push
+          else
+            echo "No changes to commit"
+          fi
