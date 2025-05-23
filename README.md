@@ -1,6 +1,6 @@
 ![Слой_1](https://github.com/user-attachments/assets/f9d79ae2-7620-4cab-8ba5-2c2acf766742)
 
-<h1 align="center">🕹️ Unity Developer 🕹️</h1>
+<h1 align="center"> Unity Game Developer </h1>
 📫 **How to reach me:** [gwamotoveletssser@gmail.com](mailto:gwamotoveletssser@gmail.com)
 
 ## 📜 Additional Info
