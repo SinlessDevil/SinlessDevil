@@ -44,7 +44,7 @@ player with hands-on experience in gameplay, tools.
   </div>
 </div>
 
-## 🎯 Technical Challenges (2023)
+## 🎯 Technical Challenges (2022 - 2023)
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 1080px;">
     <a href="https://github.com/SinlessDevil/TestTaskPizzaDelivery" target="_blank">
