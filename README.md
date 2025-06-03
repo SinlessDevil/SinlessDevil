@@ -41,6 +41,9 @@ player with hands-on experience in gameplay, tools.
     <a href="https://github.com/SinlessDevil/ColliderMeshTool" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ColliderMeshTool&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=20250520" />
     </a>
+    <a href="https://github.com/SinlessDevil/VisionFieldMesh" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=VisionFieldMesh&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=20250520" />
+    </a>
   </div>
 </div>
 
