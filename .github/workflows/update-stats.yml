@@ -17,9 +17,10 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-      - name: Replace date in README
+      - name: Replace random param in README
         run: |
-          sed -i 's/random=[0-9]*/random=20250520/g' README.md
+          RANDOM_NUM=$((RANDOM % 900000 + 100000))
+          sed -i "s/random=[0-9]*/random=$RANDOM_NUM/g" README.md
 
       - name: Commit and push if changed
         run: |
