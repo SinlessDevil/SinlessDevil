@@ -1,7 +1,11 @@
 ![Слой_1](https://github.com/user-attachments/assets/f9d79ae2-7620-4cab-8ba5-2c2acf766742)
 
 <h1 align="center"> Unity Game Developer </h1>
-📫 **How to reach me:** gwamotoveletssser@gmail.com
+ 📫 How to reach me :
+
+[![Email](https://img.shields.io/badge/Gmail-gwamotoveletssser@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwamotoveletssser@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yevhenii--motovelets-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-motovelets-bab819175/)
+
 
 ## 📜 Additional Info
 Unity Developer with 4+ years of experience, including 3,5+ years in commercial projects.
