@@ -112,5 +112,3 @@ player with hands-on experience in gameplay, tools.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SinlessDevil&theme=darkhub&no-frame=true&column=6" />
 </p>
-
-![Profile views](https://komarev.com/ghpvc/?username=SinlessDevil)
