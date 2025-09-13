@@ -96,6 +96,9 @@ player with hands-on experience in gameplay, tools.
 ## 🎯 Technical Challenges (2022 - 2023)
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 1080px;">
+    <a href="https://github.com/SinlessDevil/TestTaskArmageddonica" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=108714" />
+    </a>
     <a href="https://github.com/SinlessDevil/TestTaskShotBall" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskShotBall&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=108714" />
     </a>
