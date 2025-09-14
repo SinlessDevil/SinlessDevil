@@ -24,6 +24,8 @@ player with hands-on experience in gameplay, tools.
 <img src="https://nirzak-streak-stats.vercel.app/?user=SinlessDevil&theme=dark&hide_border=false" alt="Streak Stats" height="180" />
 </div>
 
+---
+
 ## 🚀 Featured Projects 🚀
 
 <table>
@@ -52,6 +54,8 @@ player with hands-on experience in gameplay, tools.
 </td>
 </tr>
 </table>
+
+---
 
 ## 🎮 Game Prototypes / Mechanics
 
