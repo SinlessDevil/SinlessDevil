@@ -24,6 +24,24 @@ player with hands-on experience in gameplay, tools.
 <img src="https://nirzak-streak-stats.vercel.app/?user=SinlessDevil&theme=dark&hide_border=false" alt="Streak Stats" height="180" />
 </div>
 
+## 🚀 Featured Projects
+<div align="center" style="border: 2px solid #2e3a59; border-radius: 12px; padding: 20px; background-color: #0d1117; max-width: 1100px; margin: auto;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <a href="https://github.com/SinlessDevil/TestTaskArmageddonica" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true" />
+    </a>
+    <a href="https://github.com/SinlessDevil/ZumaClone" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true" />
+    </a>
+    <a href="https://github.com/SinlessDevil/TetrisInventorySystem" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true" />
+    </a>
+    <a href="https://github.com/SinlessDevil/Match3PuzzleFruit" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Match3PuzzleFruit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true" />
+    </a>
+  </div>
+</div>
+
 ## 🎮 Game Prototypes / Mechanics
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 1080px;">
