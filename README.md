@@ -26,7 +26,7 @@ player with hands-on experience in gameplay, tools.
 
 ---
 
-## 🚀 Featured Projects 🚀
+### 🚀 Featured Projects 🚀
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ player with hands-on experience in gameplay, tools.
 
 ---
 
-## 🎮 Game Prototypes / Mechanics
+### 🎮 Game Prototypes / Mechanics
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ player with hands-on experience in gameplay, tools.
 </tr>
 </table>
 
-## 🛠 Tools
+### 🛠 Tools
 
 <table>
 <tr>
@@ -151,7 +151,7 @@ player with hands-on experience in gameplay, tools.
 </tr>
 </table>
 
-## 🧰 Project Templates
+### 🧰 Project Templates
 
 <table>
 <tr>
@@ -175,7 +175,7 @@ player with hands-on experience in gameplay, tools.
 </tr>
 </table>
 
-## 🎯 Technical Challenges (2022 - 2023)
+### 🎯 Technical Challenges (2022 - 2023)
 
 <table>
 <tr>
