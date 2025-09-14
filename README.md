@@ -24,121 +24,181 @@ player with hands-on experience in gameplay, tools.
 <img src="https://nirzak-streak-stats.vercel.app/?user=SinlessDevil&theme=dark&hide_border=false" alt="Streak Stats" height="180" />
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 🚀
 
 <table>
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&theme=dark&hide_border=false)](https://github.com/SinlessDevil/TestTaskArmageddonica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/TestTaskArmageddonica)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&theme=dark&hide_border=false)](https://github.com/SinlessDevil/ZumaClone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/ZumaClone)
 
 </td>
 </tr>
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&theme=dark&hide_border=false)](https://github.com/SinlessDevil/TetrisInventorySystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/TetrisInventorySystem)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Match3PuzzleFruit&theme=dark&hide_border=false)](https://github.com/SinlessDevil/Match3PuzzleFruit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Match3PuzzleFruit&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/Match3PuzzleFruit)
 
 </td>
 </tr>
 </table>
 
 ## 🎮 Game Prototypes / Mechanics
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 1080px;">
-    <a href="https://github.com/SinlessDevil/TetrisInventorySystem" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/ZumaClone" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-     <a href="https://github.com/SinlessDevil/Match3PuzzleFruit" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Match3PuzzleFruit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/PokemonTacticalRolePlay" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=PokemonTacticalRolePlay&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/VisionFieldMesh" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=VisionFieldMesh&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/MarineStateIo" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=MarineStateIo&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/TutoBallBlastClone" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TutoBallBlastClone&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/CasualGamesCollection" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=CasualGamesCollection&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-  </div>
-</div>
+
+<table>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TetrisInventorySystem)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/ZumaClone)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Match3PuzzleFruit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/Match3PuzzleFruit)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=PokemonTacticalRolePlay&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/PokemonTacticalRolePlay)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=VisionFieldMesh&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/VisionFieldMesh)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=MarineStateIo&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/MarineStateIo)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TutoBallBlastClone&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TutoBallBlastClone)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=CasualGamesCollection&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/CasualGamesCollection)
+
+</td>
+</tr>
+</table>
 
 ## 🛠 Tools
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 1080px;">
-     <a href="https://github.com/SinlessDevil/ColliderMeshTool" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ColliderMeshTool&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a> 
-    <a href="https://github.com/SinlessDevil/UnityGridLevelEditor" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityGridLevelEditor&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/SaveSystemToolkit" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=SaveSystemToolkit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/UnityLocalizationEditor" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityLocalizationEditor&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/AudioVibrationKit" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AudioVibrationKit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/TestToolKit" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestToolKit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-  </div>
-</div>
+
+<table>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ColliderMeshTool&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/ColliderMeshTool)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityGridLevelEditor&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/UnityGridLevelEditor)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=SaveSystemToolkit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/SaveSystemToolkit)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityLocalizationEditor&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/UnityLocalizationEditor)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AudioVibrationKit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/AudioVibrationKit)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestToolKit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestToolKit)
+
+</td>
+</tr>
+</table>
 
 ## 🧰 Project Templates
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 1080px;">
-    <a href="https://github.com/SinlessDevil/ZenjectTemplate" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZenjectTemplate&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/AddressableTemplate" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AddressableTemplate&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/EcsTemplate" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=EcsTemplate&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-  </div>
-</div>
+
+<table>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZenjectTemplate&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/ZenjectTemplate)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AddressableTemplate&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/AddressableTemplate)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=EcsTemplate&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/EcsTemplate)
+
+</td>
+</tr>
+</table>
 
 ## 🎯 Technical Challenges (2022 - 2023)
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 1080px;">
-    <a href="https://github.com/SinlessDevil/TestTaskArmageddonica" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/TestTaskShotBall" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskShotBall&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/TestTaskCatchFruit" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskCatchFruit&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-    <a href="https://github.com/SinlessDevil/TestTaskPizzaDelivery" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskPizzaDelivery&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&hide_border=true&random=122885" />
-    </a>
-  </div>
-</div>
+
+<table>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskArmageddonica)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskShotBall&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskShotBall)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskCatchFruit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskCatchFruit)
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskPizzaDelivery&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskPizzaDelivery)
+
+</td>
+</tr>
+</table>
 
 ## 🏆 GitHub Trophies
 <p align="center">
