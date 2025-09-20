@@ -175,27 +175,34 @@ player with hands-on experience in gameplay, tools.
 </tr>
 </table>
 
-### 🎯 Technical Challenges (2022 - 2023)
+### 🎯 Technical Challenges
 
 <table>
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskArmageddonica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskRaccoonsGames&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskRaccoonsGames)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskShotBall&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskShotBall)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskArmageddonica)
 
 </td>
 </tr>
 <tr>
 <td>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskShotBall&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskShotBall)
+
+</td>
+<td>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskCatchFruit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskCatchFruit)
 
 </td>
+</tr>
+<tr>
 <td>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskPizzaDelivery&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d)](https://github.com/SinlessDevil/TestTaskPizzaDelivery)
