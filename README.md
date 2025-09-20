@@ -32,21 +32,28 @@ player with hands-on experience in gameplay, tools.
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/TestTaskArmageddonica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskRaccoonsGames&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/TestTaskRaccoonsGames)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/ZumaClone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/TestTaskArmageddonica)
 
 </td>
 </tr>
 <tr>
 <td>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/ZumaClone)
+
+</td>
+<td>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/TetrisInventorySystem)
 
 </td>
+</tr>
+<tr>
 <td>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Match3PuzzleFruit&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4)](https://github.com/SinlessDevil/Match3PuzzleFruit)
