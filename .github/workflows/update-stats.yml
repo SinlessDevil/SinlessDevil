@@ -2,7 +2,7 @@ name: Update Stats Cache
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # каждый день в 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,23 +10,58 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-      - name: Replace random param in README
+      - name: Add or update cacheBust in README images
+        shell: bash
         run: |
+          set -e
+
           RANDOM_NUM=$((RANDOM % 900000 + 100000))
-          sed -i "s/random=[0-9]*/random=$RANDOM_NUM/g" README.md
+
+          perl -0777 -i -pe "s/([?&])cacheBust=\\d+/\\1cacheBust=${RANDOM_NUM}/g" README.md
+
+          DOMAINS='(?:github-readme-stats\.vercel\.app|nirzak-streak-stats\.vercel\.app|github-profile-trophy\.vercel\.app|skillicons\.dev)'
+
+          perl -0777 -i -pe '
+            my $v = $ENV{"RANDOM_NUM"};
+            s{
+              (!\[[^\]]*\]\()                       
+              (https?://'"$DOMAINS"'/[^)\s"']+)      
+              (?![^)]*cacheBust=)                      
+              (\))                                     
+            }{
+              my ($pre,$url,$post) = ($1,$2,$4);
+              $url .= ($url =~ /\?/ ? "&" : "?") . "cacheBust=$v";
+              "$pre$url$post";
+            }gex
+          ' README.md
+
+          # 2б) HTML-изображения: <img src="URL" ...>
+          perl -0777 -i -pe '
+            my $v = $ENV{"RANDOM_NUM"};
+            s{
+              (src=")                               
+              (https?://'"$DOMAINS"'/[^"\s]+)       
+              (?![^"]*cacheBust=)                    
+              (")                                    
+            }{
+              my ($pre,$url,$post) = ($1,$2,$3);
+              $url .= ($url =~ /\?/ ? "&" : "?") . "cacheBust=$v";
+              "$pre$url$post";
+            }gex
+          ' README.md
 
       - name: Commit and push if changed
         run: |
           git add README.md
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-update GitHub Stats cache param"
+            git commit -m "Auto-update cacheBust for README images"
             git push
           else
             echo "No changes to commit"
