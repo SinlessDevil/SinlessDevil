@@ -18,44 +18,48 @@ jobs:
           git config --global user.email "github-actions@github.com"
 
       - name: Add or update cacheBust in README images
-        shell: bash
         run: |
-          set -e
+          python3 - << 'PY'
+          import re, time, os
 
-          RANDOM_NUM=$((RANDOM % 900000 + 100000))
+          fn = "README.md"
+          rnd = str(int(time.time()))  # можно заменить на любой источник "рандома"
 
-          perl -0777 -i -pe "s/([?&])cacheBust=\\d+/\\1cacheBust=${RANDOM_NUM}/g" README.md
+          # домены, для которых добавляем/обновляем cacheBust
+          domains = r"(github-readme-stats\.vercel\.app|nirzak-streak-stats\.vercel\.app|github-profile-trophy\.vercel\.app|skillicons\.dev)"
 
-          DOMAINS='(?:github-readme-stats\.vercel\.app|nirzak-streak-stats\.vercel\.app|github-profile-trophy\.vercel\.app|skillicons\.dev)'
+          with open(fn, "r", encoding="utf-8") as f:
+            s = f.read()
 
-          perl -0777 -i -pe '
-            my $v = $ENV{"RANDOM_NUM"};
-            s{
-              (!\[[^\]]*\]\()                       
-              (https?://'"$DOMAINS"'/[^)\s"']+)      
-              (?![^)]*cacheBust=)                      
-              (\))                                     
-            }{
-              my ($pre,$url,$post) = ($1,$2,$4);
-              $url .= ($url =~ /\?/ ? "&" : "?") . "cacheBust=$v";
-              "$pre$url$post";
-            }gex
-          ' README.md
+          def repl_url(u: str) -> str:
+            # обновим существующий cacheBust=...
+            if re.search(r"([?&])cacheBust=\d+", u):
+              return re.sub(r"([?&])cacheBust=\d+", r"\1cacheBust=" + rnd, u)
+            # иначе добавим
+            sep = "&" if "?" in u else "?"
+            return u + f"{sep}cacheBust={rnd}"
 
-          # 2б) HTML-изображения: <img src="URL" ...>
-          perl -0777 -i -pe '
-            my $v = $ENV{"RANDOM_NUM"};
-            s{
-              (src=")                               
-              (https?://'"$DOMAINS"'/[^"\s]+)       
-              (?![^"]*cacheBust=)                    
-              (")                                    
-            }{
-              my ($pre,$url,$post) = ($1,$2,$3);
-              $url .= ($url =~ /\?/ ? "&" : "?") . "cacheBust=$v";
-              "$pre$url$post";
-            }gex
-          ' README.md
+          # Markdown-изображения: ![...](URL)
+          def replace_markdown(m):
+            pre, url, post = m.group(1), m.group(2), m.group(3)
+            if re.search(rf"https?://{domains}", url):
+              url = repl_url(url)
+            return pre + url + post
+
+          s = re.sub(r"(!\[[^\]]*\]\()(https?://[^\s)]+)(\))", replace_markdown, s)
+
+          # HTML-изображения: <img src="URL" ...>
+          def replace_html(m):
+            pre, url, post = m.group(1), m.group(2), m.group(3)
+            if re.search(rf"https?://{domains}", url):
+              url = repl_url(url)
+            return pre + url + post
+
+          s = re.sub(r'(<img[^>]*\s+src=")(https?://[^"\s]+)(")', replace_html, s)
+
+          with open(fn, "w", encoding="utf-8") as f:
+            f.write(s)
+          PY
 
       - name: Commit and push if changed
         run: |
