@@ -19,10 +19,9 @@ player with hands-on experience in gameplay, tools.
 </p>
 
 ## 📊 Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cacheBust=1764811071" alt="Top Languages" height="180" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=SinlessDevil&theme=dark&hide_border=false&cacheBust=1764811071" alt="Streak Stats" height="180" />
-</div>
+<p align="center">
+  <img src="https://metrics.lecoq.io/SinlessDevil?template=community&base=header,activity,community&languages=1&languages.limit=8&isocalendar=1&lines=1&achievements=1&achievements.threshold=C&config.timezone=Europe/Kiev" alt="GitHub Metrics" />
+</p>
 
 ---
 
