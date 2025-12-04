@@ -17,7 +17,7 @@ Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/S
 
 ## 📊 Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinlessDevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cacheBust=1764811071" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api/?username=SinlessDevil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" height="180" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=SinlessDevil&theme=dark&hide_border=false&cacheBust=1764811071" alt="Streak Stats" height="180" />
 </div>
 
