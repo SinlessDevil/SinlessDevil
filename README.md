@@ -6,7 +6,6 @@
 [![Email](https://img.shields.io/badge/Gmail-gwamotoveletssser@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwamotoveletssser@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yevhenii--motovelets-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-motovelets-bab819175/)
 
-
 ## 📜 Additional Info
 Unity Developer with 4 years of commercial experience. I work across the full development cycle — from prototypes to release and live ops. Focused on performance, clean code, and scalable architecture.
 Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/Smart TV platforms, analytics & SDK integrations, and live feature development. Strong communicator and team player with hands-on ownership of shipped features.
@@ -24,92 +23,54 @@ Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/S
 
 ---
 
-### 🚀 Featured Projects 🚀
-
-<table>
-<tr>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskRaccoonsGames&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4&cacheBust=1764811071)](https://github.com/SinlessDevil/TestTaskRaccoonsGames)
-
-</td>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4&cacheBust=1764811071)](https://github.com/SinlessDevil/TestTaskArmageddonica)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4&cacheBust=1764811071)](https://github.com/SinlessDevil/ZumaClone)
-
-</td>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4&cacheBust=1764811071)](https://github.com/SinlessDevil/TetrisInventorySystem)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Match3PuzzleFruit&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&border_color=6272a4&cacheBust=1764811071)](https://github.com/SinlessDevil/Match3PuzzleFruit)
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🎮 Game Prototypes / Mechanics
 
 <table>
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TetrisInventorySystem&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/TetrisInventorySystem)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=TetrisInventorySystem\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/TetrisInventorySystem)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZumaClone&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/ZumaClone)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=Match3PuzzleFruit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/Match3PuzzleFruit)
-
-</td>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=PokemonTacticalRolePlay&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/PokemonTacticalRolePlay)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=ZumaClone\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/ZumaClone)
 
 </td>
 </tr>
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=VisionFieldMesh&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/VisionFieldMesh)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=Match3PuzzleFruit\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/Match3PuzzleFruit)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=MarineStateIo&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/MarineStateIo)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=PokemonTacticalRolePlay\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/PokemonTacticalRolePlay)
 
 </td>
 </tr>
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TutoBallBlastClone&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/TutoBallBlastClone)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=VisionFieldMesh\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/VisionFieldMesh)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=CasualGamesCollection&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/CasualGamesCollection)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=MarineStateIo\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/MarineStateIo)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=TutoBallBlastClone\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/TutoBallBlastClone)
+
+</td>
+<td>
+
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=CasualGamesCollection\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/CasualGamesCollection)
 
 </td>
 </tr>
@@ -121,36 +82,36 @@ Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/S
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ColliderMeshTool&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/ColliderMeshTool)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=ColliderMeshTool\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/ColliderMeshTool)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityGridLevelEditor&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/UnityGridLevelEditor)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=SaveSystemToolkit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/SaveSystemToolkit)
-
-</td>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=UnityLocalizationEditor&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/UnityLocalizationEditor)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=UnityGridLevelEditor\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/UnityGridLevelEditor)
 
 </td>
 </tr>
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AudioVibrationKit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/AudioVibrationKit)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=SaveSystemToolkit\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/SaveSystemToolkit)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestToolKit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/TestToolKit)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=UnityLocalizationEditor\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/UnityLocalizationEditor)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=AudioVibrationKit\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/AudioVibrationKit)
+
+</td>
+<td>
+
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=TestToolKit\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/TestToolKit)
 
 </td>
 </tr>
@@ -162,19 +123,19 @@ Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/S
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=ZenjectTemplate&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/ZenjectTemplate)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=ZenjectTemplate\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/ZenjectTemplate)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=AddressableTemplate&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/AddressableTemplate)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=AddressableTemplate\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/AddressableTemplate)
 
 </td>
 </tr>
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=EcsTemplate&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/EcsTemplate)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=EcsTemplate\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/EcsTemplate)
 
 </td>
 </tr>
@@ -186,35 +147,36 @@ Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/S
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskRaccoonsGames&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/TestTaskRaccoonsGames)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=TestTaskRaccoonsGames\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/TestTaskRaccoonsGames)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskArmageddonica&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/TestTaskArmageddonica)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskShotBall&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/TestTaskShotBall)
-
-</td>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskCatchFruit&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/TestTaskCatchFruit)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=TestTaskArmageddonica\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/TestTaskArmageddonica)
 
 </td>
 </tr>
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinlessDevil&repo=TestTaskPizzaDelivery&title_color=f0f8ff&text_color=cccccc&icon_color=87ceeb&bg_color=0d1117&border_color=30363d&cacheBust=1764811071)](https://github.com/SinlessDevil/TestTaskPizzaDelivery)
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=TestTaskShotBall\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/TestTaskShotBall)
+
+</td>
+<td>
+
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=TestTaskCatchFruit\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/TestTaskCatchFruit)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Customized Card](https://github-readme-stats-fast.vercel.app/api/pin?username=SinlessDevil\&repo=TestTaskPizzaDelivery\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/SinlessDevil/TestTaskPizzaDelivery)
 
 </td>
 </tr>
 </table>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
