@@ -8,10 +8,8 @@
 
 
 ## 📜 Additional Info
-Unity Developer with 4+ years of experience.
-Involved in full-cycle development — from prototypes to release and live ops. Focused on
-performance, clean code, and scalable architecture. Strong communicator and team
-player with hands-on experience in gameplay, tools.
+Unity Developer with 4 years of commercial experience. I work across the full development cycle — from prototypes to release and live ops. Focused on performance, clean code, and scalable architecture.
+Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/Smart TV platforms, analytics & SDK integrations, and live feature development. Strong communicator and team player with hands-on ownership of shipped features.
 
 ## 🛠 Tech Stack
 <p align="left">
