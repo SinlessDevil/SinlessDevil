@@ -12,8 +12,12 @@ Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/S
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,arduino,cpp,c,cs,git,ps,unreal&cacheBust=1764811071" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal&cacheBust=1764811071" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp&cacheBust=1764811071" />
+  <img src="https://skillicons.dev/icons?i=git,rider,blender,ps&cacheBust=1764811071" />
+  <img src="https://skillicons.dev/icons?i=githubactions&cacheBust=1764811071" />
 </p>
+
 
 ## 📊 Stats
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
