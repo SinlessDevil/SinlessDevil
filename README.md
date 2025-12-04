@@ -181,9 +181,3 @@ Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/S
 </td>
 </tr>
 </table>
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SinlessDevil&theme=darkhub&no-frame=true&column=6&cacheBust=1764811071" />
-</p>
