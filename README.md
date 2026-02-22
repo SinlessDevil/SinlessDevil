@@ -12,17 +12,17 @@ Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/S
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,unreal&cacheBust=1771638277" />
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp&cacheBust=1771638277" />
-  <img src="https://skillicons.dev/icons?i=git,rider,blender,ps&cacheBust=1771638277" />
-  <img src="https://skillicons.dev/icons?i=githubactions&cacheBust=1771638277" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal&cacheBust=1771725108" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp&cacheBust=1771725108" />
+  <img src="https://skillicons.dev/icons?i=git,rider,blender,ps&cacheBust=1771725108" />
+  <img src="https://skillicons.dev/icons?i=githubactions&cacheBust=1771725108" />
 </p>
 
 
 ## 📊 Stats
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
   <img src="https://github-readme-stats-fast.vercel.app/api/?username=SinlessDevil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SinlessDevil&theme=dark&hide_border=false&cacheBust=1771638277" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SinlessDevil&theme=dark&hide_border=false&cacheBust=1771725108" height="180" />
 </div>
 
 
