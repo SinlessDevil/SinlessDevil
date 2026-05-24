@@ -7,8 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yevhenii--motovelets-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-motovelets-bab819175/)
 
 ## 📜 Additional Info
-Unity Developer with 4 years of commercial experience. I work across the full development cycle — from prototypes to release and live ops. Focused on performance, clean code, and scalable architecture.
-Experienced with gameplay systems, UI, tools, optimization, Amazon/Android/iOS/Smart TV platforms, analytics & SDK integrations, and live feature development. Strong communicator and team player with hands-on ownership of shipped features.
+Results-driven Unity Developer with 4 years of commercial experience across the full game development lifecycle, from prototyping to release and LiveOps. Proven track record in building scalable architecture, gameplay systems, and custom tools. Specialized in mobile and alternative ecosystems (iOS, Android, Amazon Fire OS for Tablets/Smart TV), performance optimization, and seamless SDK integration. Strong communicator focused on clean code and end-to-end feature ownership.
 
 ## 🛠 Tech Stack
 <p align="left">
