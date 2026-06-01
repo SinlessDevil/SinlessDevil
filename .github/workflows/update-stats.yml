@@ -8,14 +8,22 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    
+    # ИСПРАВЛЕНИЕ 1: Даем права на запись в репозиторий для GitHub Actions
+    permissions:
+      contents: write
+
     steps:
+      # ИСПРАВЛЕНИЕ 2: Обновили до v5 (Node 24) и добавили токен для пуша
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Git
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Add or update cacheBust in README images
         run: |
@@ -23,7 +31,7 @@ jobs:
           import re, time, os
 
           fn = "README.md"
-          rnd = str(int(time.time()))  # можно заменить на любой источник "рандома"
+          rnd = str(int(time.time()))  # источник рандома
 
           # домены, для которых добавляем/обновляем cacheBust
           domains = r"(github-readme-stats\.vercel\.app|nirzak-streak-stats\.vercel\.app|github-profile-trophy\.vercel\.app|skillicons\.dev)"
@@ -66,7 +74,7 @@ jobs:
           git add README.md
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update cacheBust for README images"
-            git push
+            git push origin HEAD:${{ github.ref }}
           else
             echo "No changes to commit"
           fi
