@@ -2,7 +2,7 @@ name: Update Stats Cache
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # каждый день в 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -29,19 +29,23 @@ jobs:
           import re, time, os
 
           fn = "README.md"
-          rnd = str(int(time.time()))
+          rnd = str(int(time.time()))  # источник рандома
 
-          domains = r"(github-readme-stats\.vercel\.app|nirzak-streak-stats\.vercel\.app|github-profile-trophy\.vercel\.app|skillicons\.dev)"
+          # домены, для которых добавляем/обновляем cacheBust (добавили -fast для github-readme-stats)
+          domains = r"(github-readme-stats(-fast)?\.vercel\.app|nirzak-streak-stats\.vercel\.app|github-profile-trophy\.vercel\.app|skillicons\.dev)"
 
           with open(fn, "r", encoding="utf-8") as f:
             s = f.read()
 
           def repl_url(u: str) -> str:
+            # обновим существующий cacheBust=...
             if re.search(r"([?&])cacheBust=\d+", u):
               return re.sub(r"([?&])cacheBust=\d+", r"\1cacheBust=" + rnd, u)
+            # иначе добавим
             sep = "&" if "?" in u else "?"
             return u + f"{sep}cacheBust={rnd}"
 
+          # Markdown-изображения: ![...](URL)
           def replace_markdown(m):
             pre, url, post = m.group(1), m.group(2), m.group(3)
             if re.search(rf"https?://{domains}", url):
@@ -50,6 +54,7 @@ jobs:
 
           s = re.sub(r"(!\[[^\]]*\]\()(https?://[^\s)]+)(\))", replace_markdown, s)
 
+          # HTML-изображения: <img src="URL" ...>
           def replace_html(m):
             pre, url, post = m.group(1), m.group(2), m.group(3)
             if re.search(rf"https?://{domains}", url):
