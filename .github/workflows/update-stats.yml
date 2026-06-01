@@ -2,19 +2,20 @@ name: Update Stats Cache
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # каждый день в 00:00 UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     
-    # ИСПРАВЛЕНИЕ 1: Даем права на запись в репозиторий для GitHub Actions
     permissions:
       contents: write
+    
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
-      # ИСПРАВЛЕНИЕ 2: Обновили до v5 (Node 24) и добавили токен для пуша
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
