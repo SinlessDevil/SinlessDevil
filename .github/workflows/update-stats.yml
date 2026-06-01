@@ -16,7 +16,7 @@ jobs:
     steps:
       # ИСПРАВЛЕНИЕ 2: Обновили до v5 (Node 24) и добавили токен для пуша
       - name: Checkout repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -74,7 +74,7 @@ jobs:
           git add README.md
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update cacheBust for README images"
-            git push origin HEAD:${{ github.ref }}
+            git push origin main
           else
             echo "No changes to commit"
           fi
