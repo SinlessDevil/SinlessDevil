@@ -11,13 +11,10 @@ jobs:
     
     permissions:
       contents: write
-    
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,23 +29,19 @@ jobs:
           import re, time, os
 
           fn = "README.md"
-          rnd = str(int(time.time()))  # источник рандома
+          rnd = str(int(time.time()))
 
-          # домены, для которых добавляем/обновляем cacheBust
           domains = r"(github-readme-stats\.vercel\.app|nirzak-streak-stats\.vercel\.app|github-profile-trophy\.vercel\.app|skillicons\.dev)"
 
           with open(fn, "r", encoding="utf-8") as f:
             s = f.read()
 
           def repl_url(u: str) -> str:
-            # обновим существующий cacheBust=...
             if re.search(r"([?&])cacheBust=\d+", u):
               return re.sub(r"([?&])cacheBust=\d+", r"\1cacheBust=" + rnd, u)
-            # иначе добавим
             sep = "&" if "?" in u else "?"
             return u + f"{sep}cacheBust={rnd}"
 
-          # Markdown-изображения: ![...](URL)
           def replace_markdown(m):
             pre, url, post = m.group(1), m.group(2), m.group(3)
             if re.search(rf"https?://{domains}", url):
@@ -57,7 +50,6 @@ jobs:
 
           s = re.sub(r"(!\[[^\]]*\]\()(https?://[^\s)]+)(\))", replace_markdown, s)
 
-          # HTML-изображения: <img src="URL" ...>
           def replace_html(m):
             pre, url, post = m.group(1), m.group(2), m.group(3)
             if re.search(rf"https?://{domains}", url):
