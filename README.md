@@ -17,12 +17,6 @@ Results-driven Unity Developer with 4 years of commercial experience across the 
   <img src="https://skillicons.dev/icons?i=githubactions&cacheBust=1784945661" />
 </p>
 
-## 📊 Stats
-<div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinlessDevil&show_icons=true&theme=dark&hide_border=true&count_private=true&cacheBust=1784945661" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SinlessDevil&layout=compact&theme=dark&hide_border=true&cacheBust=1784945661" height="180" />
-</div>
-
 ---
 
 ### 🎮 Game Prototypes / Mechanics
