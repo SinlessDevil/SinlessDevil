@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yevhenii--motovelets-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-motovelets-bab819175/)
 
 ## 📜 Additional Info
-Results-driven Unity Developer with 4 years of commercial experience across the full game development lifecycle, from prototyping to release and LiveOps. Proven track record in building scalable architecture, gameplay systems, and custom tools. Specialized in mobile and alternative ecosystems (iOS, Android, Amazon Fire OS for Tablets/Smart TV), performance optimization, and seamless SDK integration. Strong communicator focused on clean code and end-to-end feature ownership.
+Unity Developer with 5 years of commercial experience shipping titles end-to-end — prototype, release, LiveOps — across phones, tablets, Smart TV and WebGL. Delivered over a dozen releases to Google Play, the App Store and the Amazon Appstore, including Fire OS and Vega OS, where no engine-level path exists and the platform layer has to be built by hand. Comfortable at the low level: native HLSL shaders, memory budgeting and profiling on the weakest hardware in a device line. Build architecture, custom editor tools and documentation the rest of the team reuses across projects.
 
 ## 🛠 Tech Stack
 <p align="left">
